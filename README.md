@@ -44,15 +44,7 @@ Please cite the ACM Multimedia paper if you use DPC-Captions in your work:
 
 ```
 @inproceedings{DBLP:conf/mm/JinWZLZGZZZ19,
-  author    = {Xin Jin and
-               Le Wu and
-               Geng Zhao and
-               Xiaodong Li and
-               Xiaokun Zhang and
-               Shiming Ge and
-               Dongqing Zou and
-               Bin Zhou and
-               Xinghui Zhou},
+  author    = {Xin Jin, Le Wu, Geng Zhao, Xiaodong Li, Xiaokun Zhang, Shiming Ge, Dongqing Zou, Bin Zhou and Xinghui Zhou},
   title     = {Aesthetic Attributes Assessment of Images},
   booktitle = {Proceedings of the 27th {ACM} International Conference on Multimedia,
                {MM} 2019, Nice, France, October 21-25, 2019},
